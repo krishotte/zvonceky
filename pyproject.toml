@@ -1,0 +1,11 @@
+[project]
+name = "zvonceky"
+version = "0.1.0"
+description = "FastAPI app to play Santa bells"
+requires-python = ">=3.12"
+dependencies = [
+    "fastapi",
+    "uvicorn",
+    "pygame",
+    "numpy",
+]
